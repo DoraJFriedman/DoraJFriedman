@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DoraJFriedman
+- 👀 I’m interested in collaborating with other front-end developers and designers.
+- 🌱 I’m currently learning Intro to Backend: Forms and Inputs.
+- 💞️ I’m looking to collaborate on game apps.
+- 📫 You can reach me at DoraFriedman814@Gnail.com
